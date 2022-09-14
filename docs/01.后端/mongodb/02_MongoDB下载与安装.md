@@ -18,7 +18,7 @@ categories:
 
 在linux平台的MongoDB为解压版，我们只要戒烟tgz文件就可以使用。
 
-![image-20220726125817969](images/MongoDB下载与安装/image-20220726125817969.png)
+![image-20220726125817969](https://winnxudong.oss-cn-shanghai.aliyuncs.com/images/image-20220726125817969.png)
 
 **命令下载：**
 

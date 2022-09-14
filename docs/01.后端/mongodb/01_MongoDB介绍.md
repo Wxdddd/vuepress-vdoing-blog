@@ -47,7 +47,7 @@ NoSOL（Not OnlySOL)，意即“不仅仅是SOL”，是一项全新的数据库
 
 #### 4.2 存储结构对比
 
-![image-20220725185332216](/images/MongoDB介绍/image-20220725185332216.png)
+![image-20220725185332216](https://winnxudong.oss-cn-shanghai.aliyuncs.com/images/image-20220725185332216.png)
 
 #### 4.3 RDBS与MongoDB 对应术语
 
