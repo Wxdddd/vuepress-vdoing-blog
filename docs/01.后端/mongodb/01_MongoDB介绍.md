@@ -2,7 +2,7 @@
 title: 01_MongoDB介绍
 date: 2022-09-12 13:54:06
 permalink: /pages/a8ae76/
-sidebar: true
+# sidebar: true
 categories:
   - MongoDB
 ---

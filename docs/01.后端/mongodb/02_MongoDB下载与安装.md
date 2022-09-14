@@ -2,7 +2,7 @@
 title: 02_MongoDB下载与安装
 date: 2022-09-12 13:54:06
 permalink: /pages/efa9bb/
-sidebar: true
+# sidebar: true
 categories:
   - MongoDB
 ---

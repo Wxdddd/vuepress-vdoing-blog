@@ -2,7 +2,7 @@
 title: 05_MongoDB集合管理
 date: 2022-09-12 13:54:06
 permalink: /pages/fed9b2/
-sidebar: true
+# sidebar: true
 categories:
   - MongoDB
 ---

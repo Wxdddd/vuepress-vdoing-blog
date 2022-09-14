@@ -2,6 +2,7 @@
 title: 06_MongoDB文档管理
 date: 2022-09-12 13:54:06
 permalink: /pages/69e9b5/
+# sidebar: true
 categories:
   - MongoDB
 ---

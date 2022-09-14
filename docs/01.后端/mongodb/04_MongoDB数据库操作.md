@@ -2,7 +2,7 @@
 title: 04_MongoDB数据库操作
 date: 2022-09-12 13:54:06
 permalink: /pages/f96c27/
-sidebar: true
+# sidebar: true
 categories:
   - MongoDB
 ---
